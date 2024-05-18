@@ -1,5 +1,5 @@
 # Hi there! 👋
-
+![computer gif](https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif)
 ## About Me
 My name is Do Mai Uyen Nhi 🌸. I'm a student currently enrolled in a special program jointly offered by the University of Information Technology - VNUHCM and Birmingham City University 🎓. I'm pursuing a Bachelor of Science with Honours in Computer Science 🖥️, within the Faculty of Computing, Engineering, and the Built Environment 🏗️.
 
